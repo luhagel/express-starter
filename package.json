@@ -1,0 +1,9 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "Express web app starter template",
+  "main": "server.js",
+  "repository": "*.git",
+  "author": "Luca Hagel",
+  "license": "MIT"
+}
