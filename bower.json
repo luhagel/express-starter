@@ -1,0 +1,21 @@
+{
+  "name": "express-starter",
+  "description": "Express web app starter template",
+  "main": "server.js",
+  "authors": [
+    "Luca Hagel"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/luhagel/express-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
